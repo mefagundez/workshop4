@@ -1,0 +1,9 @@
+google-maps:
+  api-key: AIzaSyCp3mfAXS1GHFu_dgIvzvR3fcua7jIEkAo
+
+getty-images:
+  api-key: fxqrbeshss2cgktfuvfg9wmb
+  api-secret: 5UxgJgZ5KNY4y4qRb5JzeyppVCShVHBktnBj4vAZhXmnE
+
+open-weather:
+  api-key: 01d9d0a34704ebb3d0574174dc946169
